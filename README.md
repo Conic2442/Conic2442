@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Conic2442
+- 👀 I’m interested in Pipeline development for VFX
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: linkdin: https://www.linkedin.com/in/simen-tystad-tunold-ba524b92/
